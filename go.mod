@@ -1,4 +1,4 @@
-module github.com/google/wire
+module github.com/go-orb/wire
 
 go 1.12
 

@@ -17,14 +17,14 @@ For an overview, see the [introductory blog post][].
 [dependency injection]: https://en.wikipedia.org/wiki/Dependency_injection
 [introductory blog post]: https://blog.golang.org/wire
 [godoc]: https://godoc.org/github.com/google/wire
-[travis]: https://travis-ci.com/google/wire
+[travis]: https://travis-ci.com/go-orb/wire
 
 ## Installing
 
 Install Wire by running:
 
 ```shell
-go install github.com/google/wire/cmd/wire@latest
+go install github.com/go-orb/wire/cmd/wire@latest
 ```
 
 and ensuring that `$GOPATH/bin` is added to your `$PATH`.
